@@ -6,6 +6,9 @@ This Generative AI App, using the Realistic Vision Stable Diffusion with Control
 
 The Application can also change the Hair Color of the person, to the color that the user wants. The Fronted was built with Streamlit and the Backend with Flask.
 
+## Preview
+- App Preview: https://youtu.be/80StsWrfD8w?si=uHnDnmxjnNHUEArP
+
 [![Hair Touch-Up App with Stable Diffusion, ControlNet and Streamlit](./touch_up_hair_app.png)](https://youtu.be/80StsWrfD8w?si=H5WiI5x1zpJ6CouO)
 
 ## Connect
