@@ -18,13 +18,3 @@ The Application can also change the Hair Color of the person, to the color that 
 - Linkedin: https://www.linkedin.com/in/luis-jose-mendez/
 - GitHub: https://github.com/mendez-luisjose
 
----
-title: Touch Up Hair
-emoji: 📚
-colorFrom: blue
-colorTo: purple
-sdk: streamlit
-sdk_version: 1.33.0
-app_file: app.py
-pinned: false
----
